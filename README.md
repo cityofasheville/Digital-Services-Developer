@@ -55,7 +55,7 @@ Keep it simple. We are not looking for a finished product but want to learn abou
 
 
 * You may use or borrow anything you want but the work should be done by you.
-* You may email us with any questions: sbarnwell@ashevillenc.gov or use this repo’s issues (preferred).
+* You may email us with any questions: ejackson@ashevillenc.gov ccarlyle@ashevillenc.gov or use this repo’s issues (preferred).
 
 
 
