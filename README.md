@@ -48,6 +48,14 @@ Once you have a sense of the data involved, we would like to learn more about yo
 
 Ultimately we want to deliver this dashboard to citizens through the web, so we’d like to see your design implemented as a web site. Ideally the web site should be built using React or another modern web framework such as Angular 2 (NOTE: SimpliCity is currently being rebuilt using React and Redux), but you can use whatever you are comfortable with. The web site should also be hosted and accessible somewhere on the web. We recommend Github Pages (it's free and easy for client side apps).
 
+# Rules 
+
+
+Keep it simple. We are not looking for a finished product but want to learn about your skills and how you approach problems. Think of your delivery as something “minimal” that is on the road to awesome.
+
+
+* You may use or borrow anything you want but the work should be done by you.
+* You may email us with any questions: sbarnwell@ashevillenc.gov or use this repo’s issues (preferred).
 
 
 
