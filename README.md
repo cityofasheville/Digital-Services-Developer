@@ -61,7 +61,7 @@ Ultimately we want to deliver this dashboard to citizens through the web, so weâ
 
 # Resources
 Additional datasets that might be useful:
-[Asheville City Boundaries](http://data.ashevillenc.gov/datasets/dbce72a8752a47468e9ff0fed184e92b_0)
-[Census](http://data.ashevillenc.gov/datasets?q=census&sort_by=relevance)
-[Neighborhoods](http://data.ashevillenc.gov/datasets/3450b18c20bf432eb8db7a002e631046_0)
-[Zip codes](http://data.ashevillenc.gov/datasets/ff22415f6653498db1519ce670bd08b3_0)
+- [Asheville City Boundaries](http://data.ashevillenc.gov/datasets/dbce72a8752a47468e9ff0fed184e92b_0)
+- [Census](http://data.ashevillenc.gov/datasets?q=census&sort_by=relevance)
+- [Neighborhoods](http://data.ashevillenc.gov/datasets/3450b18c20bf432eb8db7a002e631046_0)
+- [Zip codes](http://data.ashevillenc.gov/datasets/ff22415f6653498db1519ce670bd08b3_0)
